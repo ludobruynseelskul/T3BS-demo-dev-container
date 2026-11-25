@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
     cmake \
     gdb \
     git \
+    valgrind \
     openssh-server \
     && rm -rf /var/lib/apt/lists/*
 # RUN apt update && apt  install -y openssh-server
