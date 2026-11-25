@@ -1,0 +1,18 @@
+services:
+  cpp-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ubuntu-cpp-dev
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    # Keep the container running in the background so you can exec into it
+    tty: true
+    stdin_open: true
+    # Required if you plan to use GDB debugger inside the container
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+

@@ -1,0 +1,23 @@
+{
+  "name": "Ubuntu C/C++ Dev",
+  // Point to your existing docker-compose file
+  "dockerComposeFile": "../docker-compose.yml",
+  // Match the service name from docker-compose.yml
+  "service": "cpp-dev",
+  // Match the working_dir from docker-compose.yml
+  "workspaceFolder": "/workspace",
+
+  // Automatically install C/C++ extensions inside the container
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cpp-devtools"
+      ]
+    }
+
+
+  }
+}

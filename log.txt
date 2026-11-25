@@ -1,0 +1,382 @@
+[INFO] (test_server.c:43) Test server is started
+
+DEBUG test_server.c:49: Connection counter = 1
+[INFO] (test_server.c:54) Incoming client connection
+
+[INFO] (test_server.c:68) Thread name set to conn-1
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.2174 - timestamp = 1794255136
+
+[INFO] (test_server.c:78) Thread name is conn-1
+[INFO] (test_server.c:80) Current number of connections: 1
+
+DEBUG test_server.c:49: Connection counter = 2
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.4652 - timestamp = 1794255137
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3883 - timestamp = 1794255138
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.5283 - timestamp = 1794255139
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3691 - timestamp = 1794255140
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3098 - timestamp = 1794255141
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0982 - timestamp = 1794255142
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0372 - timestamp = 1794255143
+
+[INFO] (test_server.c:54) Incoming client connection
+
+[INFO] (test_server.c:68) Thread name set to conn-2
+[INFO] (test_server.c:78) Thread name is conn-2
+[INFO] (test_server.c:80) Current number of connections: 2
+
+DEBUG test_server.c:49: Connection counter = 3
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.2006 - timestamp = 1794255144
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.009 - timestamp = 1794255144
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.2488 - timestamp = 1794255145
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.2668 - timestamp = 1794255146
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3414 - timestamp = 1794255146
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3791 - timestamp = 1794255147
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.1437 - timestamp = 1794255148
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.291 - timestamp = 1794255148
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.224 - timestamp = 1794255149
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.1458 - timestamp = 1794255150
+
+[INFO] (test_server.c:54) Incoming client connection
+
+[INFO] (test_server.c:68) Thread name set to conn-3
+[INFO] (test_server.c:78) Thread name is conn-3
+[INFO] (test_server.c:80) Current number of connections: 3
+
+DEBUG test_server.c:49: Connection counter = 4
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.813 - timestamp = 1794255150
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.391 - timestamp = 1794255150
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3698 - timestamp = 1794255151
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.9392 - timestamp = 1794255152
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.5192 - timestamp = 1794255152
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.993 - timestamp = 1794255153
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3016 - timestamp = 1794255153
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.7438 - timestamp = 1794255154
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.426 - timestamp = 1794255154
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.2652 - timestamp = 1794255155
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.5138 - timestamp = 1794255156
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 20.0852 - timestamp = 1794255156
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.4106 - timestamp = 1794255156
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.3449 - timestamp = 1794255157
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.4395 - timestamp = 1794255158
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1616 - timestamp = 1794255158
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.9838 - timestamp = 1794255159
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0167 - timestamp = 1794255159
+
+[INFO] (test_server.c:54) Incoming client connection
+
+[INFO] (test_server.c:68) Thread name set to conn-4
+[INFO] (test_server.c:78) Thread name is conn-4
+[INFO] (test_server.c:80) Current number of connections: 4
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.167 - timestamp = 1794255160
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.4177 - timestamp = 1794255160
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7859 - timestamp = 1794255160
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6482 - timestamp = 1794255161
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.6422 - timestamp = 1794255162
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.7419 - timestamp = 1794255162
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7932 - timestamp = 1794255162
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6482 - timestamp = 1794255163
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.3699 - timestamp = 1794255164
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.8554 - timestamp = 1794255164
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7558 - timestamp = 1794255164
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.6944 - timestamp = 1794255165
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5589 - timestamp = 1794255165
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.7716 - timestamp = 1794255166
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4973 - timestamp = 1794255166
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5314 - timestamp = 1794255167
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.1544 - timestamp = 1794255168
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.7837 - timestamp = 1794255168
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4505 - timestamp = 1794255168
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4691 - timestamp = 1794255168
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5094 - timestamp = 1794255169
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.9324 - timestamp = 1794255170
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.3873 - timestamp = 1794255170
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.2413 - timestamp = 1794255171
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6259 - timestamp = 1794255171
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.3806 - timestamp = 1794255172
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.8256 - timestamp = 1794255172
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4135 - timestamp = 1794255172
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4487 - timestamp = 1794255173
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.8116 - timestamp = 1794255174
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.3492 - timestamp = 1794255174
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5182 - timestamp = 1794255175
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.294 - timestamp = 1794255176
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.5796 - timestamp = 1794255176
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.9194 - timestamp = 1794255176
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.2759 - timestamp = 1794255177
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4373 - timestamp = 1794255177
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.3759 - timestamp = 1794255178
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.765 - timestamp = 1794255178
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4811 - timestamp = 1794255179
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7239 - timestamp = 1794255180
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.6119 - timestamp = 1794255180
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.7532 - timestamp = 1794255180
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.366 - timestamp = 1794255180
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6794 - timestamp = 1794255181
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5779 - timestamp = 1794255182
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.8224 - timestamp = 1794255182
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4195 - timestamp = 1794255183
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.441 - timestamp = 1794255183
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6607 - timestamp = 1794255184
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.8451 - timestamp = 1794255184
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.6326 - timestamp = 1794255184
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.544 - timestamp = 1794255185
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5434 - timestamp = 1794255186
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.4707 - timestamp = 1794255186
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.6532 - timestamp = 1794255186
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7801 - timestamp = 1794255187
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.5878 - timestamp = 1794255188
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.7441 - timestamp = 1794255188
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.6329 - timestamp = 1794255188
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.4396 - timestamp = 1794255189
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.7137 - timestamp = 1794255189
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6508 - timestamp = 1794255190
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.7184 - timestamp = 1794255190
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6957 - timestamp = 1794255191
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9113 - timestamp = 1794255192
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.7351 - timestamp = 1794255192
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.9439 - timestamp = 1794255192
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.7766 - timestamp = 1794255192
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9676 - timestamp = 1794255193
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0778 - timestamp = 1794255194
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 19.8312 - timestamp = 1794255194
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9486 - timestamp = 1794255195
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.8929 - timestamp = 1794255195
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9047 - timestamp = 1794255196
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.929 - timestamp = 1794255196
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.0697 - timestamp = 1794255196
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7281 - timestamp = 1794255197
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8619 - timestamp = 1794255198
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.1474 - timestamp = 1794255198
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.7195 - timestamp = 1794255198
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0906 - timestamp = 1794255199
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0624 - timestamp = 1794255200
+
+[INFO] (test_server.c:114) thread = conn-4 - sensor id = 4 - temperature = 20.8835 - timestamp = 1794255200
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.2246 - timestamp = 1794255200
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.087 - timestamp = 1794255201
+
+[INFO] (test_server.c:121) Peer has closed connection
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4875 - timestamp = 1794255201
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1795 - timestamp = 1794255202
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.0835 - timestamp = 1794255202
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.2485 - timestamp = 1794255203
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.071 - timestamp = 1794255204
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.1055 - timestamp = 1794255204
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.2487 - timestamp = 1794255204
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1414 - timestamp = 1794255205
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1084 - timestamp = 1794255206
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.3103 - timestamp = 1794255206
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.11 - timestamp = 1794255207
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4902 - timestamp = 1794255207
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.331 - timestamp = 1794255208
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.4401 - timestamp = 1794255208
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0904 - timestamp = 1794255209
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8596 - timestamp = 1794255210
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.5181 - timestamp = 1794255210
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.2992 - timestamp = 1794255210
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0709 - timestamp = 1794255211
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8353 - timestamp = 1794255212
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.5109 - timestamp = 1794255212
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0108 - timestamp = 1794255213
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4401 - timestamp = 1794255213
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9775 - timestamp = 1794255214
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.5234 - timestamp = 1794255214
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1681 - timestamp = 1794255215
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.2134 - timestamp = 1794255216
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.6757 - timestamp = 1794255216
+
+[INFO] (test_server.c:114) thread = conn-3 - sensor id = 3 - temperature = 19.4863 - timestamp = 1794255216
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0801 - timestamp = 1794255217
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0829 - timestamp = 1794255218
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.5978 - timestamp = 1794255218
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8706 - timestamp = 1794255219
+
+[INFO] (test_server.c:121) Peer has closed connection
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7678 - timestamp = 1794255220
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 20.8263 - timestamp = 1794255220
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8037 - timestamp = 1794255221
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.8952 - timestamp = 1794255222
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 21.0699 - timestamp = 1794255222
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0091 - timestamp = 1794255223
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.1667 - timestamp = 1794255224
+
+[INFO] (test_server.c:114) thread = conn-2 - sensor id = 2 - temperature = 21.1408 - timestamp = 1794255224
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0894 - timestamp = 1794255225
+
+[INFO] (test_server.c:121) Peer has closed connection
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9659 - timestamp = 1794255226
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.7591 - timestamp = 1794255227
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.795 - timestamp = 1794255228
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 20.0276 - timestamp = 1794255229
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.9251 - timestamp = 1794255230
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.803 - timestamp = 1794255231
+
+[INFO] (test_server.c:114) thread = conn-1 - sensor id = 1 - temperature = 19.6164 - timestamp = 1794255232
+
+[INFO] (test_server.c:121) Peer has closed connection
+
+[INFO] (test_server.c:87) Test server is shutting down
+
